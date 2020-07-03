@@ -2,6 +2,12 @@
 {
     box-sizing: border-box;
 }
+{
+    text-align:center
+    color:white;
+    background-color:black;
+
+}
 input,
 button
 {
